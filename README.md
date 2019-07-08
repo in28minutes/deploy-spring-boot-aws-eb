@@ -55,8 +55,8 @@ You will learn about automating deployments with Elastic Beanstalk CLI and creat
   - GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
 
 ### Getting Started
-- Docker in 5 Steps - TODO
-- Spring in 10 Steps - https://www.youtube.com/watch?v=edgZo2g-LTM
+- [Docker in 5 Steps](TODO)
+- [Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
 - Spring Boot in 10 Steps - https://www.youtube.com/watch?v=pcdpk3Yd1EA
 - JPA/Hibernate in 10 Steps - https://www.youtube.com/watch?v=MaI0_XdpdP8
 - React in 10 Steps - https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s
@@ -386,5 +386,6 @@ HostOS -- CloudInfrastructure [style=invis]
 ```
 
 ## Todo
+- Docker in 5 Steps - Link
 
 ## Next Steps
