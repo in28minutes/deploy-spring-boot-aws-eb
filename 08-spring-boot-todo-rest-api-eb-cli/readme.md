@@ -1,6 +1,33 @@
-# Todo and Hello World Rest APIs Connecting to H2 In memory database running on port 5000
+# Elastic Bean Stalk CLI Example - Todo and Hello World Rest APIs Connecting to H2 In memory database running on port 5000 
 
 Run com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication as a Java Application.
+
+## .elasticbeanstalk/config.yml
+
+```
+branch-defaults:
+  default:
+    environment: rest-api-in28minutes-dev
+environment-defaults:
+  rest-api-in28minutes-dev:
+    branch: null
+    repository: null
+global:
+  application_name: rest-api-in28minutes
+  default_ec2_keyname: null
+  default_platform: arn:aws:elasticbeanstalk:us-east-1::platform/Java 8 running on
+    64bit Amazon Linux/2.8.6
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  sc: null
+  workspace_type: Application
+deploy:
+  artifact: target/08-spring-boot-todo-rest-api-eb-cli-0.0.1-SNAPSHOT.jar
+```
 
 
 ## Hello World Resource
@@ -106,3 +133,5 @@ Hello World
 
 - http://localhost:5000/h2-console
 - Use `jdbc:h2:mem:testdb` as JDBC URL 
+
+## 
