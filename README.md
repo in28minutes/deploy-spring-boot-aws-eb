@@ -23,27 +23,16 @@ You will learn about automating deployments with Elastic Beanstalk CLI and creat
 - Visual Studio Code - Latest Version
 - Java 8+
 - Eclipse - Oxygen+ - (Embedded Maven From Eclipse)
+- Git
+- Docker
+- ELB CLI
 
-#### Installing Java, Eclipse & Embedded Maven
+#### Installing Guides
 
-- Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-- Steps
-  - 0 - Overview - Installation Java, Eclipse and Maven
-  - 1 - Installing Java JDK
-  - 2 - Installing Eclipse IDE
-  - 3 - Using Embedded Maven in Eclipse
-  - 4 - Troubleshooting Java, Eclipse and Maven
-
-#### Installing Node Js (npm) & Visual Studio Code 
-
-- Playlist - https://www.youtube.com/playlist?list=PLBBog2r6uMCQN4X3Aa_jM9qVjgMCHMWx6
-- Steps
-  - Step 01 - Installing NodeJs and NPM - Node Package Manager
-  - Step 02 - Quick Introduction to NPM
-  - Step 03 - Installing Visual Studio Code - Front End Java Script Editor
+- [Playlist - Installing Java, Eclipse & Embedded Maven](https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3)
+- [Playlist - Installing Node Js (npm) & Visual Studio Code](https://www.youtube.com/playlist?list=PLBBog2r6uMCQN4X3Aa_jM9qVjgMCHMWx6)
 
 #### Troubleshooting Installations
-
 - Node JS and NPM 
   - https://docs.npmjs.com/common-errors
   - https://docs.npmjs.com/getting-started/troubleshooting
@@ -55,13 +44,13 @@ You will learn about automating deployments with Elastic Beanstalk CLI and creat
   - GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
 
 ### Getting Started
-- [Docker in 5 Steps](TODO)
-- [Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
-- Spring Boot in 10 Steps - https://www.youtube.com/watch?v=pcdpk3Yd1EA
-- JPA/Hibernate in 10 Steps - https://www.youtube.com/watch?v=MaI0_XdpdP8
-- React in 10 Steps - https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s
-- Getting started with React and Spring Boot - Full Stack - https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application
-- Using Spring Security and JWT with React and Spring Boot - https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication
+- [Video - Docker in 5 Steps](TODO)
+- [Video - Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
+- [Video - Spring Boot in 10 Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
+- [Video - JPA/Hibernate in 10 Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
+- [Video - React in 10 Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
+- [Article - Getting started with React and Spring Boot - Full Stack](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
+- [Article - Using Spring Security and JWT with React and Spring Boot](https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication)
 
 ## Course Overview
 
