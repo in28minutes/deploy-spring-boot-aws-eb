@@ -15,6 +15,15 @@ In this course, we deploy a variety of Spring Boot Applications to the Cloud:
 
 You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
 
+## Getting Started
+- [Video - Docker in 5 Steps](TODO)
+- [Video - Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
+- [Video - Spring Boot in 10 Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
+- [Video - JPA/Hibernate in 10 Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
+- [Video - React in 10 Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
+- [Article - Getting started with React and Spring Boot - Full Stack](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
+- [Article - Using Spring Security and JWT with React and Spring Boot](https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication)
+
 ## Installation Guides
 
 #### Required Tools
@@ -42,15 +51,6 @@ You will learn about automating deployments with Elastic Beanstalk CLI and creat
 - Eclipse and Embedded Maven
   - PDF : https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
   - GIT Repository For Installation : https://github.com/in28minutes/getting-started-in-5-steps
-
-### Getting Started
-- [Video - Docker in 5 Steps](TODO)
-- [Video - Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
-- [Video - Spring Boot in 10 Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
-- [Video - JPA/Hibernate in 10 Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
-- [Video - React in 10 Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
-- [Article - Getting started with React and Spring Boot - Full Stack](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
-- [Article - Using Spring Security and JWT with React and Spring Boot](https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication)
 
 ## Course Overview
 
