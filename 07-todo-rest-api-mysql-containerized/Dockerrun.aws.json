@@ -1,0 +1,50 @@
+{
+  "AWSEBDockerrunVersion": 2,
+  "containerDefinitions": [
+    {
+      "name": "mysql",
+      "image": "mysql:5.7",
+      "environment": [
+        {
+          "name": "MYSQL_ROOT_PASSWORD",
+          "value": "dummypassword"
+        },
+        {
+          "name": "MYSQL_USER",
+          "value": "todos-user"
+        },
+        {
+          "name": "MYSQL_PASSWORD",
+          "value": "dummytodos"
+        },
+        {
+          "name": "MYSQL_DATABASE",
+          "value": "todos"
+        }        
+      ],
+      "essential": true,
+      "memory": 256,
+      "portMappings": [
+        {
+          "hostPort": 3306,
+          "containerPort": 3306
+        }
+      ]
+    },
+    {
+      "name": "todo-rest-api",
+      "image": "in28min/todo-rest-api-mysql:1.0.0.RELEASE",
+      "essential": true,
+      "memory": 256,
+      "portMappings": [
+        {
+          "hostPort": 5000,
+          "containerPort": 5000
+        }
+      ],
+      "links": [
+        "mysql"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+Jul  4 05:29:43 ip-172-31-17-226 crond[2616]: (CRON) STARTUP (1.4.4)
+Jul  4 05:29:43 ip-172-31-17-226 crond[2616]: (CRON) INFO (RANDOM_DELAY will be scaled with factor 2% if used.)
+Jul  4 05:29:43 ip-172-31-17-226 crond[2616]: (CRON) INFO (running with inotify support)
+Jul  4 05:30:02 ip-172-31-17-226 CROND[3106]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:30:02 ip-172-31-17-226 CROND[3107]: (root) CMD (publishLogs.py --de-dupe --conf-path '/opt/elasticbeanstalk/tasks/publishlogs.d/*' --location-prefix resources/environments/logs/publish/ --num-concurrent 2)
+Jul  4 05:31:01 ip-172-31-17-226 CROND[3709]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:32:01 ip-172-31-17-226 CROND[3737]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:33:01 ip-172-31-17-226 CROND[3765]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:34:01 ip-172-31-17-226 CROND[3793]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:35:01 ip-172-31-17-226 CROND[3821]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:36:01 ip-172-31-17-226 CROND[3851]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:37:01 ip-172-31-17-226 CROND[3879]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:38:01 ip-172-31-17-226 CROND[3907]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:39:01 ip-172-31-17-226 CROND[3935]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:40:01 ip-172-31-17-226 CROND[3963]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:41:01 ip-172-31-17-226 CROND[3993]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:42:01 ip-172-31-17-226 CROND[4021]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:43:01 ip-172-31-17-226 CROND[4049]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:44:01 ip-172-31-17-226 CROND[4077]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:45:01 ip-172-31-17-226 CROND[4106]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:45:01 ip-172-31-17-226 CROND[4107]: (root) CMD (clearStaleLogPublishingRecords.py)
+Jul  4 05:46:01 ip-172-31-17-226 CROND[4136]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:47:01 ip-172-31-17-226 CROND[4166]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:48:01 ip-172-31-17-226 CROND[4194]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:49:01 ip-172-31-17-226 CROND[4222]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:50:01 ip-172-31-17-226 CROND[4280]: (root) CMD (publishLogs.py --de-dupe --conf-path '/opt/elasticbeanstalk/tasks/publishlogs.d/*' --location-prefix resources/environments/logs/publish/ --num-concurrent 2)
+Jul  4 05:50:01 ip-172-31-17-226 CROND[4281]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:51:01 ip-172-31-17-226 CROND[4312]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:52:01 ip-172-31-17-226 CROND[4342]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:53:01 ip-172-31-17-226 CROND[4370]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:54:01 ip-172-31-17-226 CROND[4398]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:55:01 ip-172-31-17-226 CROND[4461]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:56:01 ip-172-31-17-226 CROND[5171]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:57:01 ip-172-31-17-226 CROND[5199]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:58:01 ip-172-31-17-226 CROND[5243]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 05:59:01 ip-172-31-17-226 CROND[5271]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 06:00:01 ip-172-31-17-226 CROND[5299]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 06:01:01 ip-172-31-17-226 CROND[5330]: (root) CMD (run-parts /etc/cron.hourly)
+Jul  4 06:01:01 ip-172-31-17-226 CROND[5331]: (root) CMD (/usr/sbin/awslogs-nanny > /dev/null 2>&1)
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting 0anacron
+Jul  4 06:01:01 ip-172-31-17-226 anacron[5350]: Anacron started on 2019-07-04
+Jul  4 06:01:01 ip-172-31-17-226 anacron[5350]: Will run job `cron.daily' in 11 min.
+Jul  4 06:01:01 ip-172-31-17-226 anacron[5350]: Will run job `cron.weekly' in 31 min.
+Jul  4 06:01:01 ip-172-31-17-226 anacron[5350]: Will run job `cron.monthly' in 51 min.
+Jul  4 06:01:01 ip-172-31-17-226 anacron[5350]: Jobs will be executed sequentially
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5353]: finished 0anacron
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logcleanup.elasticbeanstalk.healthd.httpd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5368]: finished cron.logcleanup.elasticbeanstalk.healthd.httpd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logcleanup.elasticbeanstalk.healthd.nginx.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5379]: finished cron.logcleanup.elasticbeanstalk.healthd.nginx.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logrotate.elasticbeanstalk.awslogs.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5386]: finished cron.logrotate.elasticbeanstalk.awslogs.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logrotate.elasticbeanstalk.healthd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5393]: finished cron.logrotate.elasticbeanstalk.healthd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logrotate.elasticbeanstalk.httpd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5400]: finished cron.logrotate.elasticbeanstalk.httpd.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5330]: starting cron.logrotate.elasticbeanstalk.tomcat8.conf
+Jul  4 06:01:01 ip-172-31-17-226 run-parts(/etc/cron.hourly)[5407]: finished cron.logrotate.elasticbeanstalk.tomcat8.conf

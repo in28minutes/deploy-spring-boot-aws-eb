@@ -1,0 +1,12 @@
+{
+	"AWSEBDockerrunVersion": "1",
+	"Image": {
+		"Name": "in28min/todo-rest-api-h2:1.0.0.RELEASE",
+		"Update": "true"
+	},
+	"Ports": [
+		{
+			"ContainerPort": "5000"
+		}
+	]
+}
