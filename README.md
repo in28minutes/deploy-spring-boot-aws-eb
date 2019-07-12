@@ -320,7 +320,7 @@ Start Learning Now. Hit the Enroll Button!
 - Step 04 - Playing with AWS Elastic Beanstalk Rolling Deployment Options - 1
 - Step 05 - Playing with AWS Elastic Beanstalk Rolling Deployment Options - 2
 
-### Continous Delivery for Java Spring Boot Applications with AWS CodePipeline and AWS CodeBuild
+### Continuous Delivery for Java Spring Boot Applications with AWS CodePipeline and AWS CodeBuild
 - Step 01 - Getting Started with AWS CodePipeline and AWS CodeBuild
 - Step 02 - Creating Github Repo and Commit Spring Boot Java Project
 - Step 03 - Configuring AWS CodeBuild and AWS CodePipeline
@@ -616,9 +616,6 @@ HostOS -- CloudInfrastructure [style=invis]
 ```
 
 ## Todo
-- Editing
- - Needs Re-recording of voice - 01 03:18
- - 
 - Docker in 5 Steps - Link in Both Github Repos
 - Update Github Page Descriptions
 - Free Tier and Billing Alerts everywhere
