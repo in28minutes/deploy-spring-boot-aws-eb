@@ -13,14 +13,20 @@ In this course, we deploy a variety of Spring Boot Applications to the Cloud:
 - Single Container with REST API
 - Multi Container with Todo REST API talking to MySQL
 
+This course would be a perfect first step as an introduction to AWS and the Cloud.
+
 You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
 
+You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
+
+You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
+
 ## Getting Started
-- [Video - Docker in 5 Steps](TODO)
-- [Video - Spring in 10 Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
-- [Video - Spring Boot in 10 Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
-- [Video - JPA/Hibernate in 10 Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
-- [Video - React in 10 Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
+- [Video - Docker in 5 Steps](https://youtu.be/Rt5G5Gj7RP0)
+- [Video - Spring in Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
+- [Video - Spring Boot in Steps](https://www.youtube.com/watch?v=pcdpk3Yd1EA)
+- [Video - JPA/Hibernate in Steps](https://www.youtube.com/watch?v=MaI0_XdpdP8)
+- [Video - React in Steps](https://www.youtube.com/watch?v=SWXuXhZkNQc&t=110s)
 - [Article - Getting started with React and Spring Boot - Full Stack](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
 - [Article - Using Spring Security and JWT with React and Spring Boot](https://www.springboottutorial.com/spring-boot-react-full-stack-with-spring-security-basic-and-jwt-authentication)
 - [AWS Code Pipeline Github Repo](https://github.com/in28minutes/spring-boot-todo-rest-api-h2-aws-codepipeline)
@@ -57,68 +63,40 @@ You will learn about automating deployments with Elastic Beanstalk CLI and creat
 ## Course Overview
 
 ### Introduction
-Developing your first full stack application with React and Spring Boot is fun.
+Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AWS (Amazon Web Services) is the No 1 Cloud Service Provider today.
 
-In this course, you will learn the basics of full stack development developing a Basic Todo Management Application using React, Spring Boot and Spring Security Frameworks.
+How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
 
-You will build the application step by step - in more than 50 steps. This course would be a perfect first step as an introduction to React and Full Stack Development.
+In this course, we deploy a variety of Spring Boot Applications to the Cloud:
+- REST APIs - Hello World and Todo - Jar
+- Todo Web Application War
+- Full Stack Application with React and Spring Boot
+- Single Container with REST API
+- Multi Container with Todo REST API talking to MySQL
 
-You will be using React (Frontend View Framework), React Create App(To create React project), Various JavaScript Libraries (Axios, Formik, React Router), Spring Boot (REST API Framework), Spring (Dependency Management),  Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (JavaScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
+This course would be a perfect first step as an introduction to AWS and the Cloud.
+
+You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
+
+You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
+
+You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 ## What you'll learn
-- You will learn to Topic No 1
-- You will understand about Topic No 1
-- You will develop a great application
-- You will learn to design and develop SOAP and RESTful web services with Spring Boot
-- You will learn the magic of Spring Boot - Auto Configuration, Spring Initializr and Starter Projects
-- You will Learn the Best Practices in Developing Awesome Java Spring Applications from an Expert with 20 Years of Programming Experience
-- You will Acquire ALL the SKILLS to demonstrate an EXPERTISE with Spring Framework in Your Job Interviews
-- You will Acquire ALL the Python Skills needed to TRANSITION into Analytics, Machine Learning and Data Science Roles
-- You will Develop a REAL-TIME project with Angular and Spring Boot from SCRATCH
+- You will Learn the Fundamentals of Amazon Web Services from Zero, no previous experience required
+- You will learn to deploy Spring Boot REST API to AWS with AWS Elastic Beanstalk
+- You will learn to deploy Java, Spring Boot Full Stack Applications to AWS with AWS Elastic Beanstalk and S3
+- You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
+- You will learn to deploy containerized Java Spring Boot applications to AWS
+- You will learn to create a continuous delivery pipeline with AWS Code Pipeline
+- You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
 - You will Join 250,000 Learners having AMAZING LEARNING Experiences with in28Minutes
-- You will Learn Spring Framework the MODERN WAY - The way Real Projects use it!
-- You will Become a COMPLETE Spring Developer - With the ability to write Great Unit Tests
-- You will Go from a Total Beginner to an Experienced Spring Developer
-- You will Become the go to guy for Fixing Spring Framework problems in Your Project
-- You will Build an Amazing Single Page Application combining Angular with Spring Boot REST APIs
-- You will Master Fundamentals of Spring Framework from Zero, no previous experience required
-- You will Learn Basics of ....
-- You will Get expertise in the toolchain supporting Spring, including Spring Boot, Maven, Eclipse, JUnit and Mockito
-- You will Understand the LATEST frameworks and technologies, including Spring Boot, Maven, Eclipse, JUnit and Mockito.
-- You will learn to connect web services to JPA/Hibernate with Spring Boot
-- You will understand how to implement Exception Handling, Validation, HATEOAS and filtering for RESTful Web Services.
-- You will learn to use a wide variety of Spring Boot Starter Projects - Spring Boot Web, Spring Boot Web Services, Spring Boot Data JPA
-- You will learn how to version, monitor (Spring Boot Actuator) and document (Swagger) your RESTful Web Services with Spring Boot
-- You will understand the best practices in designing RESTful web services
-- You will understand about WSDL, SOAP Header, SOAP Body, SOAP Fault, XSD, JAXB and EndPoint
-- You will develop a Todo Management Application step by step with login and logout functionalities
-- You will learn to use an Annotation based approach - @RequestParam, @ModelAttribute, @SessionAttributes
-- You will understand the basics of developing a Web Application - POST, GET, HTTP, MVC Pattern
-- You will learn the basics of JSP, JSTL, EL, Spring Tag Libraries
-- You will learn some of the magic of Spring Boot
-- You will understand Spring MVC in depth - DispatcherServlet , Model, Controllers and ViewResolver
-- You will learn the magic of Spring Boot - Auto Configuration, Spring Initializr and Starter Projects
-- You will learn to develop RESTful web services with Spring Boot
-- You will learn to develop a Web Application connecting to JPA/Hibernate Step by Step with Spring MVC and Spring Boot
-- You will learn to use a wide variety of Spring Boot Starter Projects - Spring Boot Web, Spring Boot Test, Spring Boot Data JPA, Spring Boot Data REST
-- You will understand Spring MVC in depth - DispatcherServlet , Model, Controllers and ViewResolver
-- You will understand how to make best use of Spring Boot Actuator and Spring Boot Developer Tools
-- You will learn how to externalise application configuration using Spring Boot Profiles and Dynamic Configuration
-- You will understand and use the embedded servlet container options provided by Spring Boot - Tomcat, Jetty and Undertow
-- You will learn to write great Unit and Integration tests using Spring Boot Starter Test
-- You will learn the basics of Spring Framework - Dependency Injection, IOC Container, Application Context and Bean Factory.
-- You will understand how to use Spring Annotations - @Autowired, @Component, @Service, @Repository, @Configuration, @Primary....
-- You will understand Spring MVC in depth - DispatcherServlet , Model, Controllers and ViewResolver
-- You will use a variety of Spring Boot Starters - Spring Boot Starter Web, Starter Data Jpa, Starter Test
-- You will learn the basics of Spring Boot, Spring AOP, Spring JDBC and JPA
-- You will learn the basics of Eclipse, Maven, JUnit and Mockito
-- You will develop a basic Web application step by step using JSP Servlets and Spring MVC
-- You will learn to write unit tests with XML, Java Application Contexts and Mockito
 
 ## Requirements
 - You have an attitude to learn while having fun :)
-- You have some programming experience with Java and you are a Spring Framework beginner
-- This not a beginner course — You should be confident in coding HTML and CSS before taking the course
+- You have some programming experience with Java, Spring and Spring Boot
+- You have a valid debit or credit card to create a AWS Account
+- You DO NOT need to have any experience with AWS (Amazon Web Services)
 
 ## Copy Writing Phrases For This Course
 
@@ -198,9 +176,9 @@ Java Course RoadMap Image at the End!
 
 ## Description
 
-REST?   Yes.      Spring Boot?  Yes      SOAP?   Yes      Best Practices?  Yes    Hands-on?   Of course.    Zero Programming Experience? No Problem. 
+Deploy REST API to Cloud?   Yes.      Deploy Full Stack to Cloud?  Yes      Learng Basics of AWS?   Yes      Create an AWS RDS Database?  Yes    Hands-on?   Of course.    Zero AWS Experience? No Problem. 
 
-Do you have ZERO programming Experience? Do you want to learn Java with an easy to learn, step by step approach? Are you ready to master Java and take the next step in your programming career? Do you want to Master Building Great Java Web Services - both RESTful and SOAP - with Spring Boot? Do you want to join 250,000+ learners having Amazing Learning Experiences with in28Minutes?
+Do you have ZERO experience with Amazon Web Services (AWS)? Do you want to learn to Deploy Java Spring Boot Applications to Amazon Web Services (AWS) using AWS Elastic Beanstalk with an easy to learn, step by step approach? Are you ready to learn about the cloud with Amazon Web Services (AWS) and take the next step in your programming career? Do you want to join 250,000+ learners having Amazing Learning Experiences with in28Minutes?
 
 Look No Further!
 
@@ -214,15 +192,24 @@ Look No Further!
 
 ******* Course Overview *******
 
-Developing your first application with XYZ Framework is fun.
+Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AWS (Amazon Web Services) is the No 1 Cloud Service Provider today.
 
-Introduction to XYZ Framework..
+How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
 
-In this course, you will learn the basics developing a Basic Todo Management Application using XYZ Framework.
+In this course, we deploy a variety of Spring Boot Applications to the Cloud:
+- REST APIs - Hello World and Todo - Jar
+- Todo Web Application War
+- Full Stack Application with React and Spring Boot
+- Single Container with REST API
+- Multi Container with Todo REST API talking to MySQL
 
-You will build the application step by step - in more than 25 steps. This course would be a perfect first step as an introduction to XYZ Framework.
+This course would be a perfect first step as an introduction to AWS and the Cloud.
 
-You will be using Spring (Dependency Management), Spring MVC, Spring Boot, Spring Security (Authentication and Authorization), BootStrap (Styling Pages), Maven (dependencies management), Eclipse (IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
+You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
+
+You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
+
+You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 ******* What You Can Expect from Every in28Minutes Course *******
 
@@ -250,41 +237,95 @@ Zero risk. 30 day money-back guarantee with every purchase of the course. You ha
 Start Learning Now. Hit the Enroll Button!
 
 ******* Step By Step Details *******
-- 01 Step 01: 
-- 01 Step 02: 
-- 01 Step 03: 
-- 01 Step 04: 
-- 01 Step 05: 
-- 01 Step 06: 
-- 01 Step 07: 
-- 01 Step 08: 
-- 01 Step 09: 
-- 01 Step 10: 
-- 01 Step 11: 
-- 01 Step 12: 
-- 01 Step 13: 
-- 01 Step 14: 
-- 01 Step 15: 
-- 01 Step 16: 
-- 01 Step 17: 
-- 01 Step 18: 
-- 01 Step 19: 
-- 01 Step 20: 
-- 01 Step 21: 
-- 01 Step 22: 
-- 01 Step 23: 
-- 01 Step 24: 
-- 01 Step 25: 
-- 01 Step 26: 
-- 01 Step 27: 
-- 01 Step 28: 
-- 01 Step 29: 
-- 01 Step 30: 
-- 01 Step 31: 
-- 01 Step 32: 
-- 01 Step 33: 
-- 01 Step 34: 
-- 01 Step 35: 
+
+### Getting Started with the course
+- Step 00 - Deploying Spring Boot Applications with AWS Elastic Beanstalk - Introduction
+- Step 01 - Getting Started with the Course
+
+### Getting Started with AWS
+- Step 01 - Creating an AWS Root Account
+- Step 02 - Creating an IAM User for your AWS Account
+
+### Getting Started with AWS Elastic Beanstalk
+- Step 01 - 10000 Feet Overview of Cloud, AWS and Elastic Beanstalk
+- Step 02 - Getting started with AWS Elastic Beanstalk - Creating First Application and Environment
+- Step 03 - Quick Exploration of AWS Elastic Beanstalk
+- Step 04 - Quick Introduction to AWS Regions
+- Step 05 - AWS Resources created by Elastic Beanstalk - An Overview
+- Step 06 - Its Your Responsibility to Monitor Billing on the Cloud - 5 Recommendations
+- Step 07 - Monitor AWS Billing - Setting Billing Alerts
+
+### Deploying Java Spring Boot Hello World REST API to AWS Elastic Beanstalk
+- Step 01 - Importing Seven Spring Boot Projects from Github
+- Step 02 - Quick Tip - Use Artifacts from build artifacts folder
+- Step 03 - Running 01 Spring Boot Hello World Application in Local
+- Step 04 - Building jar for 01 Spring Boot Hello World Application
+- Step 05 - Deploy 01 Spring Boot Hello World Application to AWS Elastic Beanstalk
+
+### Deploying Java Spring Boot Todo REST API to AWS Elastic Beanstalk
+- Step 01 - Setting up 02 Spring Boot Todo REST API in Local
+- Step 02 - Testing 02 Spring Boot Todo REST API in Local
+- Step 03 - Build and Deploy 02 Spring Boot Todo REST API in AWS Elastic Beanstalk
+- Step 04 - Exploring AWS Elastic Beanstalk Application Versions
+- Step 05 - Exploring Termination of AWS Elastic Beanstalk Application Environments
+- Step 06 - Exploring Logs from AWS Elastic Beanstalk Application Java JAR Environments
+
+### Deploying Java Spring Boot H2 Web App to AWS Elastic Beanstalk
+- Step 01 - Running 03 Spring Boot H2 Web App on Local
+- Step 02 - Deploying 03 Spring Boot H2 Web App WAR to AWS Elastic Beanstalk
+- Step 03 - Testing 03 Spring Boot H2 Web App AWS Deployment
+- Step 04 - Exploring AWS Environment logs of 03 Spring Boot H2 Web App
+
+### Deploying Java Spring Boot Web App talking to MySQL with AWS Elastic Beanstalk and AWS RDS
+- Step 01 - Code Review of 04 Spring Boot MySQL Web App - Environment Variables
+- Step 02 - Running MySQL as Docker Container on Local
+- Step 03 - Connect 04 Spring Boot MySQL Web App to MySQL on Local
+- Step 04 - Deploy 04 Spring Boot MySQL Web App to AWS Elastic Beanstalk
+- Step 05 - Testing 04 Spring Boot MySQL Web App Deployment on AWS Elastic Beanstalk
+- Step 06 - Exploring AWS Relational Database Service - RDS
+- Step 07 - Exploring AWS - Understanding Security Groups
+- Step 08 - Creating AWS RDS Database outside AWS Elastic Beanstalk
+- Step 09 - Setting up 04 Spring Boot MySQL Web App to connect to RDS - Environment Variables and Security Groups
+- Step 10 - Creating new AWS Security Group for AWS Elastic Beanstalk Application
+- Step 11 - Exploring AWS Elastic Beanstalk Save Environment Configuration Feature
+
+### Deploying Java Full Stack Spring Boot React App with AWS Elastic Beanstalk and AWS S3
+- Step 01 - Exploring 05 Java Full Stack Spring Boot React App
+- Step 02 - Running React Frontend in Local
+- Step 03 - Deploying Java REST API Backend to AWS Elastic Beanstalk
+- Step 04 - Building React Frontend Code for AWS Deployment
+- Step 05 - Quick Introduction to AWS Simple Storage Service - S3
+- Step 06 - Deploying React Frontend to AWS S3 Static Website
+
+### Deploying Containerized Java Applications with AWS Elastic Beanstalk
+- Step 01 - Code Review for 06 Single Container Java Spring Boot REST API
+- Step 02 - Creating and Running Local Docker Image for 06 Java Spring Boot REST API
+- Step 03 - Pushing 06 Single Container Java Spring Boot REST API Docker Image to Docker Hub
+- Step 04 - Deploying 06 Single Container Java Spring Boot REST API Image to AWS Beanstalk
+- Step 05 - Running 07 Multi Container Java Spring Boot REST API with MySQL on Local
+- Step 06 - Deploying 07 Multi Container Java Spring Boot REST API with MySQL to AWS Beanstalk
+- Step 07 - Testing 07 Multi Container Java Spring Boot REST API with MySQL on AWS - Security Groups
+
+### AWS Elastic Beanstalk - CLI, Blue Green Deployments and Worker Apps
+- Step 01 - Introduction to AWS Elastic Beanstalk Command Line Interface EB CLI
+- Step 02 - Exploring AWS Elastic Beanstalk Command Line Interface EB CLI - Commands
+- Step 03 - Exploring AWS Elastic Beanstalk Blue Green Deployments
+- Step 04 - Creating and Deploying Java Worker App to AWS Elastic Beanstalk
+- Step 05 - Testing Java Worker App on AWS Elastic Beanstalk using SQS - Simple Queing Service
+
+### AWS Elastic Beanstalk - Creating Load Balanced Auto Scaling Environments
+- Step 01 - Creating Load Balanced Auto Scaling Environments with AWS Elastic Beanstalk
+- Step 02 - Understand Magic of AWS Elastic Beanstalk - AZ, ELB, ASG and CloudWatch Alarms
+- Step 03 - Playing with AWS Elastic Beanstalk Auto Scaling Features
+- Step 04 - Playing with AWS Elastic Beanstalk Rolling Deployment Options - 1
+- Step 05 - Playing with AWS Elastic Beanstalk Rolling Deployment Options - 2
+
+### Continous Delivery for Java Spring Boot Applications with AWS CodePipeline and AWS CodeBuild
+- Step 01 - Getting Started with AWS CodePipeline and AWS CodeBuild
+- Step 02 - Creating Github Repo and Commit Spring Boot Java Project
+- Step 03 - Configuring AWS CodeBuild and AWS CodePipeline
+- Step 04 - Creating AWS CodeBuild Build Specification 
+- Step 05 -  Testing Continuous Deployment with AWS CodePipeline
 
 Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
 
@@ -575,16 +616,14 @@ HostOS -- CloudInfrastructure [style=invis]
 ```
 
 ## Todo
-- Docker in 5 Steps - Link
+- Editing
+ - Needs Re-recording of voice - 01 03:18
+ - 
+- Docker in 5 Steps - Link in Both Github Repos
 - Update Github Page Descriptions
 - Free Tier and Billing Alerts everywhere
 - Check Region before each video
 - Videos
-  - Importing Projects in
-  - AWS Overview - VPC, AZ, Region
-  - Finding IAM Login Page
-  - Elastic IP
-  - Docker in 5 Steps
   - Upload to Youtube
     - Docker in 5 Steps
     - AWS
@@ -616,6 +655,6 @@ HostOS -- CloudInfrastructure [style=invis]
   - Do atleast 3 Youtube live sessions
   - After a Month
     - UFB and Packt
-
+- Send Docker Video to all Subscribers
 
 ## Next Steps
