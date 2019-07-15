@@ -223,7 +223,7 @@ Each of these courses come with
 ✔ Free Udemy Certificate of Completion on Completion of Course
 ✔ 30 Day "No Questions Asked" Money Back Guarantee!
 
-~~~ Here are a Few Reviews on The in28Minutes Way ~~~
+*** Here are a Few Reviews on The in28Minutes Way ***
 
 ★★★★★ Excellent, fabulous. The way he has prepared the material and the way he teaches is really awesome. What an effort .. Thanks a million
 ★★★★★ A lot of preparation work has taken place from the teacher and this is visible throughout the course.
