@@ -6,21 +6,6 @@ Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AW
 
 How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
 
-In this course, we deploy a variety of Spring Boot Applications to the Cloud:
-- REST APIs - Hello World and Todo - Jar
-- Todo Web Application War
-- Full Stack Application with React and Spring Boot
-- Single Container with REST API
-- Multi Container with Todo REST API talking to MySQL
-
-This course would be a perfect first step as an introduction to AWS and the Cloud.
-
-You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
-
-You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
-
-You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
-
 ## Getting Started
 - [Video - Docker in 5 Steps](https://youtu.be/Rt5G5Gj7RP0)
 - [Video - Spring in Steps](https://www.youtube.com/watch?v=edgZo2g-LTM)
@@ -62,11 +47,6 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 
 ## Course Overview
 
-### Introduction
-Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AWS (Amazon Web Services) is the No 1 Cloud Service Provider today.
-
-How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
-
 In this course, we deploy a variety of Spring Boot Applications to the Cloud:
 - REST APIs - Hello World and Todo - Jar
 - Todo Web Application War
@@ -97,43 +77,12 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 - You have some programming experience with Java, Spring and Spring Boot
 - You have a valid debit or credit card to create a AWS Account
 - You DO NOT need to have any experience with AWS (Amazon Web Services)
-
-## Copy Writing Phrases For This Course
-
-#### Keywords
-- wordcounter.net
-
-#### Questions To Ask Yourselves
-- What's in it for the Student?
-- What are the top questions in students mind?
-- What are the appealing subject lines?
-- Subject Line - Ask a Question. Create Curiosity. Tease to What's Inside. Make a Bold Promise. 
-  - Start 2018 with 6 Best Selling Courses
-  - ⏰ Only hours left! ⏰ Claim your Black Friday offer now
-Inbox
-  - [NEW COURSE] How to become a Software Architect?
-  - ⚡⚡⚡ [UDEMY BLACK FRIDAY] - Premium Courses for $10
-  - Just Released - Three Amazing FREE Courses
-  - Change Your Life Through Online Learning
-  - If You are Ready to Change Your Life...
-  - Is it Your Time... (to become an architect)
-  - By Far, The Easiest Way? ... (to learn full stack development)
+  - ⚡⚡⚡ [NEW COURSE] Deploy Spring Boot to Cloud - Amazon Web Services
+  - Is it Your Time... (to start with aws)
+  - By Far, The Easiest Way? ... (to learn cloud)
   - #1 Skill For Years to Come
   - Do You have the #1 Skill for a Java Developer?
   - Do You want to be Future Proof?
-  - Why do I love Teaching Online?
-  - Are You Ready to Make a Career Defining Move?
-  - 5 Tips to Write Blog Introductions Like a Pro
-  - 17 Facts About Content Marketing That You Didn’t Know
-  - 6 Insights to the Future of Search Engine Optimization
-  - Top 10 Small Business Plan Templates That Succeeded
-  - 5 Steps I Took to Write My First Kindle Book (And How You Can Do It in 4 Steps)
-  - How to Conquer Writer’s Block in 6 Simple Steps
-  - Case Study: How Courage Helped Me to Build a 6 Figure Online Business
-  - How to Get Rid of Content Marketing Failure and Drive Search Traffic
-  - Stop Wasting Time: Get Rid of Flashy Social Media Tools and Get More Done
-  - 7 Smart Ways to Get Rid of Affiliate Marketing Struggle and Make More Money
-  - And the Winner for Best Film About Design Is…
 - Use You and Me Language - Show Empathy. Describe Problem. Show Solution. Show Expertise. CTA.
 - Content
   - Think about Slippery Slide
@@ -147,9 +96,13 @@ Inbox
 ```
 https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=TEACHABLE-2019
 
-How to become a Full Stack Developer? This is the number two question that I’m asked when talking to Programmers and Senior Developers.
+Do you have ZERO experience with Amazon Web Services (AWS)? 
 
-In this course, You will learn the Basics of Full Stack Development developing a Basic Todo Management Application using Angular, Spring Boot and Spring Security Frameworks.
+Do you want to learn to Deploy Java Spring Boot Applications to Amazon Web Services (AWS) using AWS Elastic Beanstalk with an easy to learn, step by step approach? 
+
+Are you ready to learn about the cloud with Amazon Web Services (AWS) and take the next step in your programming career? 
+
+Do you want to join 300,000+ learners having Amazing Learning Experiences with in28Minutes?
 
 For existing in28Minutes Learners, we are creating a special offer for just $9.99. This is the LOWEST possible price allowable on Udemy. 
 
@@ -157,7 +110,13 @@ As always, you receive a full 30-day, unconditional money back guarantee because
 
 https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=FIRST-PROMO
 
-You will learn Basics of Building awesome frontend applications with Angular. You will learn the basic of Angular - Angular Modules, Components, Data Binding and Routing. You will be introduced to building great RESTful APIs with Spring Boot. You will learn to use Spring Security to configure Basic Authentication and JWT. You will learn to solve the challenges of connecting an Angular Frontend to a RESTful API
+This course would be a perfect first step as an introduction to AWS and the Cloud.
+
+You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
+
+You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
+
+You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
 https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=FIRST-PROMO
 
