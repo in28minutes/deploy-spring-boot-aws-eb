@@ -170,32 +170,17 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 - Step 04 - Creating AWS CodeBuild Build Specification 
 - Step 05 -  Testing Continuous Deployment with AWS CodePipeline
 
-Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
-
-Start Learning Now. Hit the Enroll Button!
-
-
-
-```
+### Email headings
   - ⚡⚡⚡ [NEW COURSE] Deploy Spring Boot to Cloud - Amazon Web Services
   - Is it Your Time... (to start with aws)
   - By Far, The Easiest Way? ... (to learn cloud)
   - #1 Skill For Years to Come
   - Do You have the #1 Skill for a Java Developer?
   - Do You want to be Future Proof?
-- Use You and Me Language - Show Empathy. Describe Problem. Show Solution. Show Expertise. CTA.
-- Content
-  - Think about Slippery Slide
-  - You know, it would be nice if the Journey to become a Software Architect is Plain and Easy. But, unfortunately, life isn't that easy - we all know that.
-  - I know these can work for you, too.
-  - Get EVERY course below for just $10 - The Lowest Price I'm allowed to offer
-  - To Your Success! Ranga
-  - Headshot Image
-  - Follow up Email - Wed and next Tue or Mon and Fri 
 
+### Email Template
 
-https://www.udemy.com/full-stack-application-development-with-spring-boot-and-angular/?couponCode=TEACHABLE-2019
-
+```
 Do you have ZERO experience with Amazon Web Services (AWS)? 
 
 Are you ready to learn about the cloud with Amazon Web Services (AWS) and take the next step in your programming career? 
@@ -208,7 +193,7 @@ For existing in28Minutes Learners, we are creating a special offer for just $9.9
 
 As always, you receive a full 30-day, unconditional money back guarantee because I know you are going to love our courses!
 
-https://www.udemy.com/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=FIRST_PROMO_UDEMY
+https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=OCTOBER-2019
 
 This course would be a perfect first step as an introduction to AWS and the Cloud.
 
@@ -218,9 +203,11 @@ You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS Code
 
 You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
 
-https://www.udemy.com/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=FIRST_PROMO_UDEMY
+https://www.udemy.com/course/deploy-java-spring-boot-to-aws-amazon-web-service/?couponCode=OCTOBER-2019
+
 
 Happy coding and thanks for being a student!
+
 
 Ranga
 
@@ -229,74 +216,7 @@ Thank you for all the love!
 #in28Minutes #ImLearningIn28Minutes #ImLovingIn28Minutes
 
 Good Luck and Keep Learning in28Minutes
-
-Java Course RoadMap Image at the End!
 ```
-
-## Description
-
-Deploy REST API to Cloud?   Yes.      Deploy Full Stack to Cloud?  Yes      Learng Basics of AWS?   Yes      Create an AWS RDS Database?  Yes    Hands-on?   Of course.    Zero AWS Experience? No Problem. 
-
-Do you have ZERO experience with Amazon Web Services (AWS)? Do you want to learn to Deploy Java Spring Boot Applications to Amazon Web Services (AWS) using AWS Elastic Beanstalk with an easy to learn, step by step approach? Are you ready to learn about the cloud with Amazon Web Services (AWS) and take the next step in your programming career? Do you want to join 250,000+ learners having Amazing Learning Experiences with in28Minutes?
-
-Look No Further!
-
-******* Some Amazing Reviews From Our Learners *******
-
-★★★★★ Review 1
-★★★★★ Review 2 
-★★★★★ Review 3 
-★★★★★ Review 4 
-★★★★★ Review 5 
-
-******* Course Overview *******
-
-Spring Boot is the No 1 Java Framework to develop REST API and Microservices. AWS (Amazon Web Services) is the No 1 Cloud Service Provider today.
-
-How about learning AWS by deploying Spring Applications to Cloud using Elastic Beanstalk?
-
-In this course, we deploy a variety of Spring Boot Applications to the Cloud:
-- REST APIs - Hello World and Todo - Jar
-- Todo Web Application War
-- Full Stack Application with React and Spring Boot
-- Single Container with REST API
-- Multi Container with Todo REST API talking to MySQL
-
-This course would be a perfect first step as an introduction to AWS and the Cloud.
-
-You will learn about automating deployments with Elastic Beanstalk CLI and creating a continuous delivery pipeline with AWS Code Pipeline. You will learn how to Auto Scale applications based on load as well as deploy multiple instances behind a load balancer using Elastic Beanstalk.
-
-You will be using a number of AWS Services - EC2, S3, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch. 
-
-You will be using deploying a variety of projects to Amazon Web Services (AWS). These projects are created with  React (Frontend Framework), Spring Boot (REST API Framework), Spring (Dependency Management), Spring Security (Authentication and Authorization - Basic and JWT), BootStrap (Styling Pages), Maven (dependencies management), Node (npm), Visual Studio Code (TypeScript IDE), Eclipse (Java IDE) and Tomcat Embedded Web Server. We will help you set up each one of these.
-
-******* What You Can Expect from Every in28Minutes Course *******
-
-in28Minutes created 20 Best Selling Courses providing Amazing Learning Experiences to 250,000 Learners across the world.
-
-Each of these courses come with
-✔ Amazing Hands-on Step By Step Learning Experiences
-✔ Real Project Experiences using the Best Tools and Frameworks
-✔ Awesome Troubleshooting Guides with 200+ FAQs Answered
-✔ Friendly Support in the Q&A section
-✔ Free Udemy Certificate of Completion on Completion of Course
-✔ 30 Day "No Questions Asked" Money Back Guarantee!
-
-*** Here are a Few Reviews on The in28Minutes Way ***
-
-★★★★★ Excellent, fabulous. The way he has prepared the material and the way he teaches is really awesome. What an effort .. Thanks a million
-★★★★★ A lot of preparation work has taken place from the teacher and this is visible throughout the course.
-★★★★★ This guy is fantastic. Really. Wonderful teaching skills, and goes well out of his way to make sure that everything he is doing is fully understood. This is the kind of tutorial that gets me excited to work with a framework that I may otherwise not be.
-★★★★★ The best part of it is the hands-on approach which the author maintained throughout the course as he had promised at the beginning of the lecture. He explains the concepts really well and also makes sure that there is not a single line of code you type without understanding what it really does.
-★★★★★ I also appreciate the mind and hands approach of teaching something and then having the student apply it. It makes everything a lot clearer for the student and uncovers issues that we will face in our project early.
-★★★★★ Amazing course. Explained super difficult concepts (that I have spent hours on the internet finding a good explanation) in under 5 minutes.
-
-Zero risk. 30 day money-back guarantee with every purchase of the course. You have nothing to lose!
-
-Start Learning Now. Hit the Enroll Button!
-
-
-TODO
 
 ```sh
 for file in *; do mv "${file}" "${file//-/ }"; done
